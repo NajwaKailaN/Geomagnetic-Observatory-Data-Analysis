@@ -49,4 +49,34 @@ The pipeline typically includes:
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 📈 Goals
+
+- Understand Earth’s magnetic field dynamics from observatory data
+- Build reproducible workflows for space weather analysis
+- Prepare dataset for advanced modeling (ML / statistical forecasting)
+
+---
+
+## 🧠 Future Improvements
+
+- Integration with real-time geomagnetic data APIs
+- Automated geomagnetic storm detection system
+- Machine learning models for anomaly prediction
+- Interactive dashboard (Plotly / Streamlit)
+
+---
+
+## 📚 References
+
+- INTERMAGNET: https://www.intermagnet.org  
+- World Data Center for Geomagnetism  
+- Geomagnetic data analysis literature in space weather research
+
+---
+
+## 👩‍💻 Author
+
+Built for research and educational purposes in geophysics and space weather data analysis.

@@ -13,7 +13,6 @@ This project focuses on transforming raw observatory datasets into meaningful sc
 - 📈 Time-series visualization of magnetic field components (X, Y, Z, F)
 - 🌪️ Detection of geomagnetic disturbances and storm events
 - 📉 Trend analysis for secular variation studies
-- 🧠 Optional ML-ready feature extraction for space weather applications
 
 ---
 
@@ -34,7 +33,6 @@ This project is designed to work with commonly used geomagnetic observatory data
 - Pandas
 - Matplotlib / Seaborn
 - SciPy
-- (Optional) Scikit-learn for feature analysis
 
 ---
 
